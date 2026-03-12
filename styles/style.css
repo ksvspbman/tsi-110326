@@ -623,6 +623,7 @@ body {
   height: 600px;
   padding-left: 20px;
   padding-top: 20px;
+
   padding-right: 20px;
   /*border: #f3f3f3, solid, 1px;*/
   background: #FFFFFF;
@@ -630,6 +631,12 @@ body {
   border-radius: 10px;
   background-color: rgba(243, 243, 243, 0.55);
   z-index: 2;
+}
+.frame-yandex {
+  overflow: hidden;
+  border-radius: 10px;
+  width: 300px;
+  height: 300px;
 }
 
 .contacts h1 {
