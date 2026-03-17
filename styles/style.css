@@ -544,6 +544,7 @@ body {
   z-index: 2;
 }
 .iframe-yandex {
+  padding-top: 50px;
   margin-left: 50px;
   color: #a9a9a9;
   border-radius: 10px;
