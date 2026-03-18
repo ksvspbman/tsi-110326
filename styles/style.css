@@ -782,6 +782,25 @@ overflow: hidden;
 
 /* --- end NEWS --- */
 
+.dostavka {
+  min-width: 1440px;
+  padding-top: 75px;
+  margin-left: 40px;
+  align-items: center;
+  justify-items: center;
+}
+
+.dostavka .container {
+  min-width: 1200px;
+}
+
+.dostavka-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
 .order form {
   margin-left: 800px;
   max-width: 486px;
