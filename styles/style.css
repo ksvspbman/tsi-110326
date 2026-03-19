@@ -467,10 +467,7 @@ body {
 
 .contacts-info {
   /*position: absolute;*/
-  margin-left: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 20px;
+  margin: 20px;
   max-width: 650px;
   height: 600px;
   padding-left: 20px;
@@ -518,12 +515,10 @@ body {
 .iframe-yandex {
   padding-top: 50px;
   margin-left: 50px;
-  color: #a9a9a9;
-  border-radius: 10px;
- 
 }
 
 .iframe-yandex iframe {
+border-style: none;
 border-radius: 10px;
 overflow: hidden;
 }
