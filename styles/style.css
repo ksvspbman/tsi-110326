@@ -526,8 +526,9 @@ overflow: hidden;
 
 /* Sertificats --------------------------*/
 .sertificats {
+  min-height: 100vh;
   padding-top: 75px;
-  padding-bottom: 20px;
+
   align-items: center;
   /* background-color: #4B0082;*/
   background-color: #f3f3f3;
@@ -714,6 +715,7 @@ overflow: hidden;
 /* --- Dostavka block --- */
 
 .dostavka {
+  min-height: 100vh;
   min-width: 1440px;
   padding-top: 75px;
   margin-left: 40px;
