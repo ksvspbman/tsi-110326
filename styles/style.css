@@ -724,7 +724,7 @@ overflow: hidden;
   padding: 10px 0;
   border-top: 2px solid #f3f3f3;
   color: #f3f3f3;
-  background-color: #4B0082;
+  background-color: #4b0082;
 }
 
 .footer .container {
@@ -1520,14 +1520,15 @@ img:nth-child(7) {
     margin: 0;
 }
 .atuinCard:hover {
-    box-shadow: 0 2px 18px rgba(0, 0, 0, 0.2), inset 0 0 0 2px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 18px rgba(75, 0, 130, 0.2), inset 0 0 0 1px rgba(75, 0, 130, 0.9);
 }
 .atuinCard:hover .atuinCard-image img  {
     transform: scale(1.1);
 }
 .atuinCard:hover .atuinCard-image strong {
     padding: 120px 16px 66px;
-    color: #000;
+    color: #4B0082;
+    /*color: #000;*/
 }
 /*@media (min-width: 576px) {
     .atuinCard-txt p {
