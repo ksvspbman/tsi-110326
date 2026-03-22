@@ -949,7 +949,7 @@ overflow: hidden;
 
  /* policy - padge */
 .policy{
-  min-height: 1440px;
+  min-width: 1440px;
 }
 .policy .container {
   width: 1200px;
