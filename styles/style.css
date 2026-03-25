@@ -681,6 +681,7 @@ overflow: hidden;
         max-width: 75%;
     }
 }
+/*
 @media screen and (max-width: 456px){
     .slideshow-item-text {
         bottom: 0;
@@ -693,7 +694,7 @@ overflow: hidden;
     .slideshow-item-text p {
         font-size: 13px;
     }
-}
+}*/
 
 /* --- end NEWS --- */
 
