@@ -96,7 +96,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  gap: 50px;
+  /* gap: 50px; */
 }
 
 .header-icon {
@@ -960,8 +960,8 @@ overflow: hidden;
   min-width: 1440px;
 }
 .policy .container {
-  width: 1200px;
-  max-width: 100%;
+  min-width: 1200px;
+  /*max-width: 100%;*/
   /*padding: 0 30px;*/
   margin: 0 auto;
 }
